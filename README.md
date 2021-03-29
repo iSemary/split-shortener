@@ -10,8 +10,15 @@ Created By @iSemary
 ```bash
 git clone https://github.com/iSemary/split-shortener.git
 ```
-##### Open folder and migrate databases
+##### Open folder
 ```bash
 cd split-shortener
+```
+##### Install packages
+```bash
+composer install 
+```
+##### Migrate databases
+```bash
 php artisan migrate
 ```
