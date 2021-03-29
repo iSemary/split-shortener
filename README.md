@@ -6,7 +6,7 @@ Created By @iSemary
 
 ## Installation
 
-#####Clone the repo
+##### Clone the repo
 ```bash
 git clone https://github.com/iSemary/split-shortener.git
 ```
