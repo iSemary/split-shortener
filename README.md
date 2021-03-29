@@ -6,7 +6,12 @@ Created By @iSemary
 
 ## Installation
 
-
+#####Clone the repo
 ```bash
-pip install foobar
+git clone https://github.com/iSemary/split-shortener.git
+```
+##### Open folder and migrate databases
+```bash
+cd split-shortener
+php artisan migrate
 ```
