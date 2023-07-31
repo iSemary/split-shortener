@@ -9,8 +9,6 @@ Split-Shortener is a URL shortener application with an ads area included. It all
 - **Analytics**
 - **Custom Short URLs**
 
-
-
 ## Preview
 
 <img src="https://github.com/iSemary/split-shortener/blob/master/preview/1.webp" height="350px" alt="Image 1">
