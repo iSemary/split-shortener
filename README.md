@@ -15,14 +15,6 @@ Split-Shortener is a URL shortener application with an ads area included. It all
 <img src="https://github.com/iSemary/split-shortener/blob/master/preview/2.webp" height="350px" alt="Image 2">
 <img src="https://github.com/iSemary/split-shortener/blob/master/preview/3.webp" height="350px" alt="Image 3">
 
-
-Split-Shortener is a Url shortener with ads area included.
-<br>
-Created By @iSemary
-<br>
-<br>
-<a href="https://www.buymeacoffee.com/iSemary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ## Installation
 
 ##### Clone the repo
